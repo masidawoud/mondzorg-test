@@ -1,12 +1,20 @@
-badge: "Now Accepting New Patients"
-title: "Your Happiest Smile Starts Right Here"
-body: "Gentle, modern dental care that puts you first — no anxiety, no judgment. Just a brighter smile and a team that genuinely loves what they do."
-primaryCta: "Book Free Consult"
-secondaryCta: "Watch Our Story"
+badge: Now Accepting New Patients
+title: Your Happiest Smile Starts Right Here
+body: >-
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  when an unknown printer took a galley of type and scrambled it to make a type
+  specimen book. It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged. It was popularised in
+  the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+  and more recently with desktop publishing software like Aldus PageMaker
+  including versions of Lorem Ipsum.
+primaryCta: Book Free Consult
+secondaryCta: Watch Our Story
 stats:
-  - value: "15+"
-    label: "Years Care"
-  - value: "8k+"
-    label: "Happy Patients"
-  - value: "4.9★"
-    label: "Avg Rating"
+  - value: 15+
+    label: Years Care
+  - value: 8k+
+    label: Happy Patients
+  - value: 4.9★
+    label: Avg Rating
