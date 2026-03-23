@@ -1,0 +1,12 @@
+badge: "Now Accepting New Patients"
+title: "Your Happiest Smile Starts Right Here"
+body: "Gentle, modern dental care that puts you first — no anxiety, no judgment. Just a brighter smile and a team that genuinely loves what they do."
+primaryCta: "Book Free Consult"
+secondaryCta: "Watch Our Story"
+stats:
+  - value: "15+"
+    label: "Years Care"
+  - value: "8k+"
+    label: "Happy Patients"
+  - value: "4.9★"
+    label: "Avg Rating"
