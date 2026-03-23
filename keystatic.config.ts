@@ -1,7 +1,7 @@
 import { config, singleton, fields } from '@keystatic/core';
 
 export default config({
-  storage: { kind: 'cloud', branchPrefix: 'content/' },
+  storage: { kind: 'cloud' },
   cloud: { project: 'mondzorg/mondzorg-test' },
 
   singletons: {
